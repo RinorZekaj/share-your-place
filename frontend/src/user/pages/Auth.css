@@ -1,0 +1,9 @@
+.authentication {
+  width: 60%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+.authentication > form {
+  margin-bottom: 20px;
+}

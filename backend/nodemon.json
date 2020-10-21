@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "rinor",
+    "DB_PASSWORD": "rinori123",
+    "DB_NAME": "places-app",
+    "MAPBOX_API_KEY": "pk.eyJ1Ijoicmlub3J6ZWthaiIsImEiOiJja2Z6dGU2NXQwNmc4MnlvMnkxNnNhNDFyIn0.sgUoigVHRFDi1Przd4139Q",
+    "JWT_SECRET_KEY": "supersecret_dont_share"
+  }
+} 
